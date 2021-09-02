@@ -1,2 +1,2 @@
-# Projeto-Task---Curso-React-Native
+# Projeto-Task--Curso-React-Native
 Projeto do curso React Native 
